@@ -35,7 +35,7 @@ meses.splice(7, 0, 'ago');
 meses.splice(10, 0, 'nov');
 console.log(meses);
 
-// objeto de alunos utilizados para os exercicios 03 e
+// objeto de alunos utilizados para os exercicios 03 e 04:
 
 const alunos = [
   { nome: 'João', nota: 7.3, bolsista: false },
